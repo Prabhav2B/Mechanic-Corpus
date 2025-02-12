@@ -7,13 +7,13 @@ assignees: Prabhav2B
 
 ---
 
-## Mechanic
+### Mechanic
 
-##Game	
+### Game	
 
-##Genre	
+### Genre	
 
-##Studio Size/Budget	
+###Studio Size/Budget	
 
 ##Feeling/Emotion
 
