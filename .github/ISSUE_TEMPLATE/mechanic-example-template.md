@@ -18,7 +18,7 @@ assignees: Prabhav2B
 ### Genre	
 ->
 
-###Studio Size/Budget	
+### Studio Size/Budget	
 ->
 
 ### Feeling/Emotion
