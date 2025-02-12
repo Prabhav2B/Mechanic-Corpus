@@ -7,20 +7,33 @@ assignees: Prabhav2B
 
 ---
 
+## Example Number 1
+
 ### Mechanic
+->
 
 ### Game	
+->
 
 ### Genre	
+->
 
 ###Studio Size/Budget	
+->
 
-##Feeling/Emotion
+### Feeling/Emotion
+->
 
-##Mechanic Explanation 
+### Mechanic Explanation 
+->
 
-##Game Feel Design 	
+### Game Feel Design 	
+->
 
-##Design Technique Utilized 	
+### Design Technique Utilized 	
+->
 
-##Reference Link
+### Reference Link
+->
+
+**To add more examples, copy the template above, paste below and continue**
